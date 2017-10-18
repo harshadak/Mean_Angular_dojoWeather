@@ -1,0 +1,9 @@
+div {
+    display: inline-block;
+    vertical-align: top;
+    margin: 40px;
+}
+h2 {
+    margin: 0 auto;
+    text-align: center;
+}
